@@ -172,35 +172,6 @@ Developer helpers (programmatic):
 
 If you want a printable, copy/paste command block or a `--help` output file, I can extract docstrings and create one.
 
-## Images, branding & credits (as requested)
-
-You provided an example banner link — I'll include it here as an external banner and also list the requested channels and creators:
-
-Banner (external link):
-
-![Banner image](https://imgs.search.brave.com/AXSRFNBw21PPnQD9IyulQ25Dd9IG2LTSVx1LQp8XhBw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2RjLzJk/L2E0L2RjMmRhNGJh/ZDYxZWJiNmRlMjdk/MTYxMWU3ZGVjOGJk/LmpwZw)
-
-Credits & contacts (as you requested):
-
-- Creator / primary contact: DARKXSIDE78 — https://t.me/DARKXSIDE78
-- Fraxx Shadow — https://t.me/FraxxShadow
-- AnimeMonth — https://t.me/AnimeMonth
-
-Recommended / affiliated channels (join links):
-
-- https://t.me/GenDubs
-- https://t.me/NatlanAnime
-- https://t.me/Pirate_Flick
-- https://t.me/GenAnimeOfc
-- https://t.me/Kaijin_Anime
-- https://t.me/GenAnimeOngoing
-
-Bot support & helpers:
-
-- Mirage_Botz — (search `@Mirage_Botz` on Telegram or provide invite link to include here)
-
-If you want these to be clickable names pointing to specific chat IDs or to include channel descriptions, I can add short blurbs under each.
-
 ## Security & privacy notes
 
 - Never commit `config.env`, OAuth secrets, or `token.pickle` to public repos.
